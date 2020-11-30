@@ -1,0 +1,2 @@
+E:\vs\8.1char\Debug\8.1char.exe
+E:\vs\8.1char\Debug\8.1char.pdb
